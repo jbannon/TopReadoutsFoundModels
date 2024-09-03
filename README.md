@@ -3,7 +3,7 @@
 
 In recent years foundation models for natural lanuage have come to prominence. Most recently in vogue are
 
-
+ting
 
 "...the **go to** statement should be abolished..." [[1]](#1).
 
